@@ -1,0 +1,19 @@
+h1 {
+    font-family: helvetica;
+    color: rebeccapurple;
+    font-size: 50px;
+    background-color: aqua;
+    border-collapse: initial;
+    text-align: center;
+    
+}
+body {
+    background-color: black;
+    text-align: center;
+}
+p {
+    font-size: 40px;
+    font-family: helvetica;
+    color: greenyellow;
+    animation-direction: alternate-reverse;
+}
